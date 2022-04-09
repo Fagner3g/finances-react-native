@@ -16,7 +16,7 @@
     "@wwdrew/react-native-numeric-textinput": "^1.1.0",
     "firebase": "^7.6.2",
     "immer": "^5.3.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-gesture-handler": "^1.5.3",
